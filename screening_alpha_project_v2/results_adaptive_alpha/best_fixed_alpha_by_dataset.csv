@@ -1,0 +1,6 @@
+dataset,dataset_key,expected_hit_rate_group,observed_prevalence,alpha,mean_ausc,final_recall,final_hit_rate
+BACE,bace,medium,0.4567,0.25,0.3610,0.6510,0.7467
+BBBP,bbbp,high,0.7644,0.00,0.2078,0.3785,0.9600
+ClinTox CT_TOX,clintox,low,0.0755,0.50,0.5414,0.8222,0.0667
+HIV,hiv,very low,0.0350,0.00,0.2814,0.4595,0.0667
+Tox21 NR-AR,tox21,low-medium,0.0426,0.25,0.4668,0.5608,0.0133

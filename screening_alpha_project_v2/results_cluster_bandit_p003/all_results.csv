@@ -1,0 +1,6 @@
+dataset,dataset_key,expected_hit_rate_group,observed_prevalence,method,alpha,mean_ausc,std_ausc,final_recall,final_hit_rate,final_alpha,final_roc_auc,final_pr_auc
+HIV,hiv,very low,0.0350,cluster_bandit,cluster_bandit,0.2694,0.0892,0.4476,0.0800,0.5000,0.7728,0.2859
+ClinTox CT_TOX,clintox,low,0.0755,cluster_bandit,cluster_bandit,0.4957,0.0488,0.7852,0.0667,0.3667,0.7631,0.2626
+Tox21 NR-AR,tox21,low-medium,0.0426,cluster_bandit,cluster_bandit,0.4513,0.0175,0.5529,0.0267,0.2833,0.7919,0.5727
+BACE,bace,medium,0.4567,cluster_bandit,cluster_bandit,0.3537,0.0140,0.6480,0.5200,0.3333,0.8629,0.8592
+BBBP,bbbp,high,0.7644,cluster_bandit,cluster_bandit,0.1898,0.0001,0.3543,0.9200,0.0667,0.8558,0.9469

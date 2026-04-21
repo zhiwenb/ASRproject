@@ -1,0 +1,6 @@
+dataset,dataset_key,n_molecules,n_actives,observed_prevalence,expected_hit_rate_group,label_column
+HIV,hiv,5000,175,0.0350,very low,HIV_active
+ClinTox CT_TOX,clintox,1484,112,0.0755,low,CT_TOX
+Tox21 NR-AR,tox21,5000,213,0.0426,low-medium,NR-AR
+BACE,bace,1513,691,0.4567,medium,Class
+BBBP,bbbp,2050,1567,0.7644,high,p_np

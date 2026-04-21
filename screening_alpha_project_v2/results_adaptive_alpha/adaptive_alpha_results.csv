@@ -1,0 +1,6 @@
+dataset,dataset_key,expected_hit_rate_group,observed_prevalence,method,alpha,mean_ausc,std_ausc,final_recall,final_hit_rate,final_alpha,final_roc_auc,final_pr_auc
+HIV,hiv,very low,0.0350,adaptive,adaptive,0.2737,0.0614,0.4571,0.0267,0.5182,0.7430,0.2796
+ClinTox CT_TOX,clintox,low,0.0755,adaptive,adaptive,0.5336,0.0344,0.8037,0.0400,0.2815,0.7651,0.2690
+Tox21 NR-AR,tox21,low-medium,0.0426,adaptive,adaptive,0.4273,0.0159,0.5569,0.0267,0.0000,0.7631,0.5634
+BACE,bace,medium,0.4567,adaptive,adaptive,0.2936,0.0116,0.5353,0.5733,0.7666,0.8881,0.8752
+BBBP,bbbp,high,0.7644,adaptive,adaptive,0.1767,0.0040,0.3224,0.8800,0.4879,0.8781,0.9423

@@ -1,0 +1,856 @@
+dataset,dataset_key,method,alpha,evaluated,screening_recall,batch_hit_rate,current_alpha
+HIV,hiv,random,NA,50,0.0143,0.0400,0.0000
+HIV,hiv,random,NA,75,0.0190,0.0267,0.0000
+HIV,hiv,random,NA,100,0.0262,0.0400,0.0000
+HIV,hiv,random,NA,125,0.0333,0.0400,0.0000
+HIV,hiv,random,NA,150,0.0357,0.0133,0.0000
+HIV,hiv,random,NA,175,0.0405,0.0267,0.0000
+HIV,hiv,random,NA,200,0.0429,0.0133,0.0000
+HIV,hiv,random,NA,225,0.0476,0.0267,0.0000
+HIV,hiv,random,NA,250,0.0571,0.0533,0.0000
+HIV,hiv,random,NA,275,0.0643,0.0400,0.0000
+HIV,hiv,random,NA,300,0.0667,0.0133,0.0000
+HIV,hiv,random,NA,325,0.0714,0.0267,0.0000
+HIV,hiv,random,NA,350,0.0786,0.0400,0.0000
+HIV,hiv,random,NA,375,0.0881,0.0533,0.0000
+HIV,hiv,random,NA,400,0.0905,0.0133,0.0000
+HIV,hiv,random,NA,425,0.0929,0.0133,0.0000
+HIV,hiv,random,NA,450,0.0976,0.0267,0.0000
+HIV,hiv,random,NA,475,0.1000,0.0133,0.0000
+HIV,hiv,random,NA,500,0.1095,0.0533,0.0000
+HIV,hiv,exploitation,0.00,50,0.0143,0.0400,0.0000
+HIV,hiv,exploitation,0.00,75,0.0405,0.1467,0.0000
+HIV,hiv,exploitation,0.00,100,0.0690,0.1600,0.0000
+HIV,hiv,exploitation,0.00,125,0.1190,0.2800,0.0000
+HIV,hiv,exploitation,0.00,150,0.1643,0.2533,0.0000
+HIV,hiv,exploitation,0.00,175,0.2071,0.2400,0.0000
+HIV,hiv,exploitation,0.00,200,0.2548,0.2667,0.0000
+HIV,hiv,exploitation,0.00,225,0.2762,0.1200,0.0000
+HIV,hiv,exploitation,0.00,250,0.2881,0.0667,0.0000
+HIV,hiv,exploitation,0.00,275,0.3095,0.1200,0.0000
+HIV,hiv,exploitation,0.00,300,0.3286,0.1067,0.0000
+HIV,hiv,exploitation,0.00,325,0.3476,0.1067,0.0000
+HIV,hiv,exploitation,0.00,350,0.3595,0.0667,0.0000
+HIV,hiv,exploitation,0.00,375,0.3786,0.1067,0.0000
+HIV,hiv,exploitation,0.00,400,0.3905,0.0667,0.0000
+HIV,hiv,exploitation,0.00,425,0.4095,0.1067,0.0000
+HIV,hiv,exploitation,0.00,450,0.4381,0.1600,0.0000
+HIV,hiv,exploitation,0.00,475,0.4476,0.0533,0.0000
+HIV,hiv,exploitation,0.00,500,0.4595,0.0667,0.0000
+HIV,hiv,weighted,0.00,50,0.0143,0.0400,0.0000
+HIV,hiv,weighted,0.00,75,0.0405,0.1467,0.0000
+HIV,hiv,weighted,0.00,100,0.0690,0.1600,0.0000
+HIV,hiv,weighted,0.00,125,0.1190,0.2800,0.0000
+HIV,hiv,weighted,0.00,150,0.1643,0.2533,0.0000
+HIV,hiv,weighted,0.00,175,0.2071,0.2400,0.0000
+HIV,hiv,weighted,0.00,200,0.2548,0.2667,0.0000
+HIV,hiv,weighted,0.00,225,0.2762,0.1200,0.0000
+HIV,hiv,weighted,0.00,250,0.2881,0.0667,0.0000
+HIV,hiv,weighted,0.00,275,0.3095,0.1200,0.0000
+HIV,hiv,weighted,0.00,300,0.3286,0.1067,0.0000
+HIV,hiv,weighted,0.00,325,0.3476,0.1067,0.0000
+HIV,hiv,weighted,0.00,350,0.3595,0.0667,0.0000
+HIV,hiv,weighted,0.00,375,0.3786,0.1067,0.0000
+HIV,hiv,weighted,0.00,400,0.3905,0.0667,0.0000
+HIV,hiv,weighted,0.00,425,0.4095,0.1067,0.0000
+HIV,hiv,weighted,0.00,450,0.4381,0.1600,0.0000
+HIV,hiv,weighted,0.00,475,0.4476,0.0533,0.0000
+HIV,hiv,weighted,0.00,500,0.4595,0.0667,0.0000
+HIV,hiv,weighted,0.10,50,0.0143,0.0400,0.1000
+HIV,hiv,weighted,0.10,75,0.0405,0.1467,0.1000
+HIV,hiv,weighted,0.10,100,0.0690,0.1600,0.1000
+HIV,hiv,weighted,0.10,125,0.1190,0.2800,0.1000
+HIV,hiv,weighted,0.10,150,0.1643,0.2533,0.1000
+HIV,hiv,weighted,0.10,175,0.2071,0.2400,0.1000
+HIV,hiv,weighted,0.10,200,0.2548,0.2667,0.1000
+HIV,hiv,weighted,0.10,225,0.2762,0.1200,0.1000
+HIV,hiv,weighted,0.10,250,0.2881,0.0667,0.1000
+HIV,hiv,weighted,0.10,275,0.3095,0.1200,0.1000
+HIV,hiv,weighted,0.10,300,0.3286,0.1067,0.1000
+HIV,hiv,weighted,0.10,325,0.3476,0.1067,0.1000
+HIV,hiv,weighted,0.10,350,0.3595,0.0667,0.1000
+HIV,hiv,weighted,0.10,375,0.3786,0.1067,0.1000
+HIV,hiv,weighted,0.10,400,0.3905,0.0667,0.1000
+HIV,hiv,weighted,0.10,425,0.4095,0.1067,0.1000
+HIV,hiv,weighted,0.10,450,0.4381,0.1600,0.1000
+HIV,hiv,weighted,0.10,475,0.4476,0.0533,0.1000
+HIV,hiv,weighted,0.10,500,0.4595,0.0667,0.1000
+HIV,hiv,weighted,0.25,50,0.0143,0.0400,0.2500
+HIV,hiv,weighted,0.25,75,0.0405,0.1467,0.2500
+HIV,hiv,weighted,0.25,100,0.0690,0.1600,0.2500
+HIV,hiv,weighted,0.25,125,0.1190,0.2800,0.2500
+HIV,hiv,weighted,0.25,150,0.1643,0.2533,0.2500
+HIV,hiv,weighted,0.25,175,0.2071,0.2400,0.2500
+HIV,hiv,weighted,0.25,200,0.2548,0.2667,0.2500
+HIV,hiv,weighted,0.25,225,0.2762,0.1200,0.2500
+HIV,hiv,weighted,0.25,250,0.2881,0.0667,0.2500
+HIV,hiv,weighted,0.25,275,0.3095,0.1200,0.2500
+HIV,hiv,weighted,0.25,300,0.3286,0.1067,0.2500
+HIV,hiv,weighted,0.25,325,0.3476,0.1067,0.2500
+HIV,hiv,weighted,0.25,350,0.3595,0.0667,0.2500
+HIV,hiv,weighted,0.25,375,0.3786,0.1067,0.2500
+HIV,hiv,weighted,0.25,400,0.3905,0.0667,0.2500
+HIV,hiv,weighted,0.25,425,0.4095,0.1067,0.2500
+HIV,hiv,weighted,0.25,450,0.4381,0.1600,0.2500
+HIV,hiv,weighted,0.25,475,0.4476,0.0533,0.2500
+HIV,hiv,weighted,0.25,500,0.4595,0.0667,0.2500
+HIV,hiv,weighted,0.50,50,0.0143,0.0400,0.5000
+HIV,hiv,weighted,0.50,75,0.0405,0.1467,0.5000
+HIV,hiv,weighted,0.50,100,0.0690,0.1600,0.5000
+HIV,hiv,weighted,0.50,125,0.1190,0.2800,0.5000
+HIV,hiv,weighted,0.50,150,0.1643,0.2533,0.5000
+HIV,hiv,weighted,0.50,175,0.2071,0.2400,0.5000
+HIV,hiv,weighted,0.50,200,0.2548,0.2667,0.5000
+HIV,hiv,weighted,0.50,225,0.2762,0.1200,0.5000
+HIV,hiv,weighted,0.50,250,0.2881,0.0667,0.5000
+HIV,hiv,weighted,0.50,275,0.3095,0.1200,0.5000
+HIV,hiv,weighted,0.50,300,0.3286,0.1067,0.5000
+HIV,hiv,weighted,0.50,325,0.3476,0.1067,0.5000
+HIV,hiv,weighted,0.50,350,0.3595,0.0667,0.5000
+HIV,hiv,weighted,0.50,375,0.3786,0.1067,0.5000
+HIV,hiv,weighted,0.50,400,0.3905,0.0667,0.5000
+HIV,hiv,weighted,0.50,425,0.4095,0.1067,0.5000
+HIV,hiv,weighted,0.50,450,0.4381,0.1600,0.5000
+HIV,hiv,weighted,0.50,475,0.4476,0.0533,0.5000
+HIV,hiv,weighted,0.50,500,0.4595,0.0667,0.5000
+HIV,hiv,weighted,0.75,50,0.0143,0.0400,0.7500
+HIV,hiv,weighted,0.75,75,0.0405,0.1467,0.7500
+HIV,hiv,weighted,0.75,100,0.0690,0.1600,0.7500
+HIV,hiv,weighted,0.75,125,0.1167,0.2667,0.7500
+HIV,hiv,weighted,0.75,150,0.1643,0.2667,0.7500
+HIV,hiv,weighted,0.75,175,0.2071,0.2400,0.7500
+HIV,hiv,weighted,0.75,200,0.2500,0.2400,0.7500
+HIV,hiv,weighted,0.75,225,0.2786,0.1600,0.7500
+HIV,hiv,weighted,0.75,250,0.2905,0.0667,0.7500
+HIV,hiv,weighted,0.75,275,0.3024,0.0667,0.7500
+HIV,hiv,weighted,0.75,300,0.3190,0.0933,0.7500
+HIV,hiv,weighted,0.75,325,0.3286,0.0533,0.7500
+HIV,hiv,weighted,0.75,350,0.3429,0.0800,0.7500
+HIV,hiv,weighted,0.75,375,0.3548,0.0667,0.7500
+HIV,hiv,weighted,0.75,400,0.3738,0.1067,0.7500
+HIV,hiv,weighted,0.75,425,0.4048,0.1733,0.7500
+HIV,hiv,weighted,0.75,450,0.4333,0.1600,0.7500
+HIV,hiv,weighted,0.75,475,0.4452,0.0667,0.7500
+HIV,hiv,weighted,0.75,500,0.4595,0.0800,0.7500
+HIV,hiv,weighted,1.00,50,0.0143,0.0400,1.0000
+HIV,hiv,weighted,1.00,75,0.0405,0.1467,1.0000
+HIV,hiv,weighted,1.00,100,0.0571,0.0933,1.0000
+HIV,hiv,weighted,1.00,125,0.1119,0.3067,1.0000
+HIV,hiv,weighted,1.00,150,0.1500,0.2133,1.0000
+HIV,hiv,weighted,1.00,175,0.1976,0.2667,1.0000
+HIV,hiv,weighted,1.00,200,0.2429,0.2533,1.0000
+HIV,hiv,weighted,1.00,225,0.2690,0.1467,1.0000
+HIV,hiv,weighted,1.00,250,0.2762,0.0400,1.0000
+HIV,hiv,weighted,1.00,275,0.2881,0.0667,1.0000
+HIV,hiv,weighted,1.00,300,0.3071,0.1067,1.0000
+HIV,hiv,weighted,1.00,325,0.3310,0.1333,1.0000
+HIV,hiv,weighted,1.00,350,0.3381,0.0400,1.0000
+HIV,hiv,weighted,1.00,375,0.3524,0.0800,1.0000
+HIV,hiv,weighted,1.00,400,0.3643,0.0667,1.0000
+HIV,hiv,weighted,1.00,425,0.3857,0.1200,1.0000
+HIV,hiv,weighted,1.00,450,0.4000,0.0800,1.0000
+HIV,hiv,weighted,1.00,475,0.4286,0.1600,1.0000
+HIV,hiv,weighted,1.00,500,0.4524,0.1333,1.0000
+HIV,hiv,adaptive,adaptive,50,0.0143,0.0400,0.5000
+HIV,hiv,adaptive,adaptive,75,0.0405,0.1467,0.5533
+HIV,hiv,adaptive,adaptive,100,0.0690,0.1600,0.5956
+HIV,hiv,adaptive,adaptive,125,0.1190,0.2800,0.6872
+HIV,hiv,adaptive,adaptive,150,0.1643,0.2533,0.7472
+HIV,hiv,adaptive,adaptive,175,0.2095,0.2533,0.7972
+HIV,hiv,adaptive,adaptive,200,0.2571,0.2667,0.8349
+HIV,hiv,adaptive,adaptive,225,0.2714,0.0800,0.7849
+HIV,hiv,adaptive,adaptive,250,0.2833,0.0667,0.7338
+HIV,hiv,adaptive,adaptive,275,0.3000,0.0933,0.7011
+HIV,hiv,adaptive,adaptive,300,0.3119,0.0667,0.6581
+HIV,hiv,adaptive,adaptive,325,0.3190,0.0400,0.6053
+HIV,hiv,adaptive,adaptive,350,0.3381,0.1067,0.5900
+HIV,hiv,adaptive,adaptive,375,0.3548,0.0933,0.5690
+HIV,hiv,adaptive,adaptive,400,0.3690,0.0800,0.5428
+HIV,hiv,adaptive,adaptive,425,0.3976,0.1600,0.5582
+HIV,hiv,adaptive,adaptive,450,0.4333,0.2000,0.5856
+HIV,hiv,adaptive,adaptive,475,0.4524,0.1067,0.5715
+HIV,hiv,adaptive,adaptive,500,0.4571,0.0267,0.5182
+ClinTox CT_TOX,clintox,random,NA,50,0.0593,0.1067,0.0000
+ClinTox CT_TOX,clintox,random,NA,75,0.0815,0.0800,0.0000
+ClinTox CT_TOX,clintox,random,NA,100,0.1037,0.0800,0.0000
+ClinTox CT_TOX,clintox,random,NA,125,0.1148,0.0400,0.0000
+ClinTox CT_TOX,clintox,random,NA,150,0.1259,0.0400,0.0000
+ClinTox CT_TOX,clintox,random,NA,175,0.1407,0.0533,0.0000
+ClinTox CT_TOX,clintox,random,NA,200,0.1667,0.0933,0.0000
+ClinTox CT_TOX,clintox,random,NA,225,0.1963,0.1067,0.0000
+ClinTox CT_TOX,clintox,random,NA,250,0.2185,0.0800,0.0000
+ClinTox CT_TOX,clintox,random,NA,275,0.2519,0.1200,0.0000
+ClinTox CT_TOX,clintox,random,NA,300,0.2704,0.0667,0.0000
+ClinTox CT_TOX,clintox,random,NA,325,0.2889,0.0667,0.0000
+ClinTox CT_TOX,clintox,random,NA,350,0.3111,0.0800,0.0000
+ClinTox CT_TOX,clintox,random,NA,375,0.3407,0.1067,0.0000
+ClinTox CT_TOX,clintox,random,NA,400,0.3667,0.0933,0.0000
+ClinTox CT_TOX,clintox,random,NA,425,0.3963,0.1067,0.0000
+ClinTox CT_TOX,clintox,random,NA,450,0.4037,0.0267,0.0000
+ClinTox CT_TOX,clintox,random,NA,475,0.4296,0.0933,0.0000
+ClinTox CT_TOX,clintox,random,NA,500,0.4444,0.0533,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,50,0.0593,0.1067,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,75,0.1222,0.2267,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,100,0.1852,0.2267,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,125,0.2778,0.3333,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,150,0.3259,0.1733,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,175,0.3889,0.2267,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,200,0.4704,0.2933,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,225,0.5111,0.1467,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,250,0.5556,0.1600,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,275,0.6000,0.1600,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,300,0.6407,0.1467,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,325,0.6704,0.1067,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,350,0.6926,0.0800,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,375,0.7148,0.0800,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,400,0.7370,0.0800,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,425,0.7556,0.0667,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,450,0.7704,0.0533,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,475,0.8111,0.1467,0.0000
+ClinTox CT_TOX,clintox,exploitation,0.00,500,0.8259,0.0533,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,50,0.0593,0.1067,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,75,0.1222,0.2267,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,100,0.1852,0.2267,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,125,0.2778,0.3333,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,150,0.3259,0.1733,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,175,0.3889,0.2267,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,200,0.4704,0.2933,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,225,0.5111,0.1467,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,250,0.5556,0.1600,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,275,0.6000,0.1600,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,300,0.6407,0.1467,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,325,0.6704,0.1067,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,350,0.6926,0.0800,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,375,0.7148,0.0800,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,400,0.7370,0.0800,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,425,0.7556,0.0667,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,450,0.7704,0.0533,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,475,0.8111,0.1467,0.0000
+ClinTox CT_TOX,clintox,weighted,0.00,500,0.8259,0.0533,0.0000
+ClinTox CT_TOX,clintox,weighted,0.10,50,0.0593,0.1067,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,75,0.1222,0.2267,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,100,0.1852,0.2267,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,125,0.2778,0.3333,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,150,0.3259,0.1733,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,175,0.3889,0.2267,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,200,0.4704,0.2933,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,225,0.5111,0.1467,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,250,0.5556,0.1600,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,275,0.6000,0.1600,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,300,0.6407,0.1467,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,325,0.6704,0.1067,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,350,0.6926,0.0800,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,375,0.7148,0.0800,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,400,0.7370,0.0800,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,425,0.7556,0.0667,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,450,0.7704,0.0533,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,475,0.8111,0.1467,0.1000
+ClinTox CT_TOX,clintox,weighted,0.10,500,0.8259,0.0533,0.1000
+ClinTox CT_TOX,clintox,weighted,0.25,50,0.0593,0.1067,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,75,0.1222,0.2267,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,100,0.1852,0.2267,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,125,0.2778,0.3333,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,150,0.3259,0.1733,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,175,0.3889,0.2267,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,200,0.4704,0.2933,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,225,0.5111,0.1467,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,250,0.5556,0.1600,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,275,0.6000,0.1600,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,300,0.6407,0.1467,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,325,0.6704,0.1067,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,350,0.6926,0.0800,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,375,0.7148,0.0800,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,400,0.7370,0.0800,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,425,0.7556,0.0667,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,450,0.7704,0.0533,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,475,0.8111,0.1467,0.2500
+ClinTox CT_TOX,clintox,weighted,0.25,500,0.8259,0.0533,0.2500
+ClinTox CT_TOX,clintox,weighted,0.50,50,0.0593,0.1067,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,75,0.1222,0.2267,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,100,0.1852,0.2267,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,125,0.2778,0.3333,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,150,0.3333,0.2000,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,175,0.3889,0.2000,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,200,0.4778,0.3200,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,225,0.5222,0.1600,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,250,0.5704,0.1733,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,275,0.6074,0.1333,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,300,0.6407,0.1200,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,325,0.6741,0.1200,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,350,0.6926,0.0667,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,375,0.7185,0.0933,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,400,0.7519,0.1200,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,425,0.7630,0.0400,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,450,0.7741,0.0400,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,475,0.8037,0.1067,0.5000
+ClinTox CT_TOX,clintox,weighted,0.50,500,0.8222,0.0667,0.5000
+ClinTox CT_TOX,clintox,weighted,0.75,50,0.0593,0.1067,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,75,0.1222,0.2267,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,100,0.1815,0.2133,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,125,0.2778,0.3467,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,150,0.3222,0.1600,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,175,0.3852,0.2267,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,200,0.4741,0.3200,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,225,0.5185,0.1600,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,250,0.5704,0.1867,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,275,0.6148,0.1600,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,300,0.6407,0.0933,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,325,0.6630,0.0800,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,350,0.6815,0.0667,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,375,0.7000,0.0667,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,400,0.7259,0.0933,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,425,0.7444,0.0667,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,450,0.7593,0.0533,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,475,0.8037,0.1600,0.7500
+ClinTox CT_TOX,clintox,weighted,0.75,500,0.8185,0.0533,0.7500
+ClinTox CT_TOX,clintox,weighted,1.00,50,0.0593,0.1067,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,75,0.1074,0.1733,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,100,0.1778,0.2533,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,125,0.2741,0.3467,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,150,0.3333,0.2133,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,175,0.3704,0.1333,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,200,0.4370,0.2400,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,225,0.4889,0.1867,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,250,0.5593,0.2533,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,275,0.5926,0.1200,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,300,0.6407,0.1733,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,325,0.6778,0.1333,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,350,0.7037,0.0933,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,375,0.7370,0.1200,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,400,0.7556,0.0667,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,425,0.7667,0.0400,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,450,0.7963,0.1067,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,475,0.8259,0.1067,1.0000
+ClinTox CT_TOX,clintox,weighted,1.00,500,0.8296,0.0133,1.0000
+ClinTox CT_TOX,clintox,adaptive,adaptive,50,0.0593,0.1067,0.5000
+ClinTox CT_TOX,clintox,adaptive,adaptive,75,0.1222,0.2267,0.5600
+ClinTox CT_TOX,clintox,adaptive,adaptive,100,0.1852,0.2267,0.6000
+ClinTox CT_TOX,clintox,adaptive,adaptive,125,0.2741,0.3200,0.6767
+ClinTox CT_TOX,clintox,adaptive,adaptive,150,0.3185,0.1600,0.6580
+ClinTox CT_TOX,clintox,adaptive,adaptive,175,0.3889,0.2533,0.6891
+ClinTox CT_TOX,clintox,adaptive,adaptive,200,0.4704,0.2933,0.7358
+ClinTox CT_TOX,clintox,adaptive,adaptive,225,0.5185,0.1733,0.7166
+ClinTox CT_TOX,clintox,adaptive,adaptive,250,0.5630,0.1600,0.6929
+ClinTox CT_TOX,clintox,adaptive,adaptive,275,0.6148,0.1867,0.6849
+ClinTox CT_TOX,clintox,adaptive,adaptive,300,0.6519,0.1333,0.6510
+ClinTox CT_TOX,clintox,adaptive,adaptive,325,0.6704,0.0667,0.5865
+ClinTox CT_TOX,clintox,adaptive,adaptive,350,0.6852,0.0533,0.5204
+ClinTox CT_TOX,clintox,adaptive,adaptive,375,0.7037,0.0667,0.4656
+ClinTox CT_TOX,clintox,adaptive,adaptive,400,0.7259,0.0800,0.4212
+ClinTox CT_TOX,clintox,adaptive,adaptive,425,0.7407,0.0533,0.3662
+ClinTox CT_TOX,clintox,adaptive,adaptive,450,0.7481,0.0267,0.3080
+ClinTox CT_TOX,clintox,adaptive,adaptive,475,0.7926,0.1600,0.3183
+ClinTox CT_TOX,clintox,adaptive,adaptive,500,0.8037,0.0400,0.2815
+Tox21 NR-AR,tox21,random,NA,50,0.0098,0.0333,0.0000
+Tox21 NR-AR,tox21,random,NA,75,0.0176,0.0533,0.0000
+Tox21 NR-AR,tox21,random,NA,100,0.0255,0.0533,0.0000
+Tox21 NR-AR,tox21,random,NA,125,0.0275,0.0133,0.0000
+Tox21 NR-AR,tox21,random,NA,150,0.0314,0.0267,0.0000
+Tox21 NR-AR,tox21,random,NA,175,0.0333,0.0133,0.0000
+Tox21 NR-AR,tox21,random,NA,200,0.0373,0.0267,0.0000
+Tox21 NR-AR,tox21,random,NA,225,0.0451,0.0533,0.0000
+Tox21 NR-AR,tox21,random,NA,250,0.0529,0.0533,0.0000
+Tox21 NR-AR,tox21,random,NA,275,0.0549,0.0133,0.0000
+Tox21 NR-AR,tox21,random,NA,300,0.0588,0.0267,0.0000
+Tox21 NR-AR,tox21,random,NA,325,0.0627,0.0267,0.0000
+Tox21 NR-AR,tox21,random,NA,350,0.0765,0.0933,0.0000
+Tox21 NR-AR,tox21,random,NA,375,0.0784,0.0133,0.0000
+Tox21 NR-AR,tox21,random,NA,400,0.0882,0.0667,0.0000
+Tox21 NR-AR,tox21,random,NA,425,0.0922,0.0267,0.0000
+Tox21 NR-AR,tox21,random,NA,450,0.1039,0.0800,0.0000
+Tox21 NR-AR,tox21,random,NA,475,0.1098,0.0400,0.0000
+Tox21 NR-AR,tox21,random,NA,500,0.1216,0.0800,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,50,0.0098,0.0333,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,75,0.1137,0.7067,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,100,0.2431,0.8800,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,125,0.3765,0.9067,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,150,0.4706,0.6400,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,175,0.4922,0.1467,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,200,0.5000,0.0533,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,225,0.5078,0.0533,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,250,0.5118,0.0267,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,275,0.5216,0.0667,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,300,0.5294,0.0533,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,325,0.5333,0.0267,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,350,0.5431,0.0667,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,375,0.5431,0.0000,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,400,0.5451,0.0133,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,425,0.5490,0.0267,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,450,0.5549,0.0400,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,475,0.5588,0.0267,0.0000
+Tox21 NR-AR,tox21,exploitation,0.00,500,0.5588,0.0000,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,50,0.0098,0.0333,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,75,0.1137,0.7067,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,100,0.2431,0.8800,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,125,0.3765,0.9067,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,150,0.4706,0.6400,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,175,0.4922,0.1467,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,200,0.5000,0.0533,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,225,0.5078,0.0533,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,250,0.5118,0.0267,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,275,0.5216,0.0667,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,300,0.5294,0.0533,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,325,0.5333,0.0267,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,350,0.5431,0.0667,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,375,0.5431,0.0000,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,400,0.5451,0.0133,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,425,0.5490,0.0267,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,450,0.5549,0.0400,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,475,0.5588,0.0267,0.0000
+Tox21 NR-AR,tox21,weighted,0.00,500,0.5588,0.0000,0.0000
+Tox21 NR-AR,tox21,weighted,0.10,50,0.0098,0.0333,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,75,0.1137,0.7067,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,100,0.2431,0.8800,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,125,0.3765,0.9067,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,150,0.4706,0.6400,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,175,0.4922,0.1467,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,200,0.5000,0.0533,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,225,0.5078,0.0533,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,250,0.5118,0.0267,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,275,0.5216,0.0667,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,300,0.5294,0.0533,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,325,0.5333,0.0267,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,350,0.5431,0.0667,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,375,0.5431,0.0000,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,400,0.5451,0.0133,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,425,0.5490,0.0267,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,450,0.5549,0.0400,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,475,0.5588,0.0267,0.1000
+Tox21 NR-AR,tox21,weighted,0.10,500,0.5588,0.0000,0.1000
+Tox21 NR-AR,tox21,weighted,0.25,50,0.0098,0.0333,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,75,0.1137,0.7067,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,100,0.2431,0.8800,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,125,0.3745,0.8933,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,150,0.4745,0.6800,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,175,0.4980,0.1600,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,200,0.5039,0.0400,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,225,0.5078,0.0267,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,250,0.5118,0.0267,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,275,0.5275,0.1067,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,300,0.5333,0.0400,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,325,0.5373,0.0267,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,350,0.5412,0.0267,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,375,0.5431,0.0133,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,400,0.5451,0.0133,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,425,0.5490,0.0267,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,450,0.5549,0.0400,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,475,0.5588,0.0267,0.2500
+Tox21 NR-AR,tox21,weighted,0.25,500,0.5608,0.0133,0.2500
+Tox21 NR-AR,tox21,weighted,0.50,50,0.0098,0.0333,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,75,0.1137,0.7067,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,100,0.2431,0.8800,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,125,0.3510,0.7333,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,150,0.4294,0.5333,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,175,0.4608,0.2133,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,200,0.4863,0.1733,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,225,0.5000,0.0933,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,250,0.5118,0.0800,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,275,0.5176,0.0400,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,300,0.5275,0.0667,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,325,0.5314,0.0267,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,350,0.5392,0.0533,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,375,0.5431,0.0267,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,400,0.5471,0.0267,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,425,0.5510,0.0267,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,450,0.5529,0.0133,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,475,0.5529,0.0000,0.5000
+Tox21 NR-AR,tox21,weighted,0.50,500,0.5549,0.0133,0.5000
+Tox21 NR-AR,tox21,weighted,0.75,50,0.0098,0.0333,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,75,0.1137,0.7067,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,100,0.2216,0.7333,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,125,0.2882,0.4533,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,150,0.3157,0.1867,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,175,0.3784,0.4267,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,200,0.4039,0.1733,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,225,0.4216,0.1200,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,250,0.4451,0.1600,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,275,0.4588,0.0933,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,300,0.4706,0.0800,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,325,0.4902,0.1333,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,350,0.5039,0.0933,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,375,0.5078,0.0267,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,400,0.5078,0.0000,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,425,0.5176,0.0667,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,450,0.5255,0.0533,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,475,0.5294,0.0267,0.7500
+Tox21 NR-AR,tox21,weighted,0.75,500,0.5373,0.0533,0.7500
+Tox21 NR-AR,tox21,weighted,1.00,50,0.0098,0.0333,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,75,0.1137,0.7067,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,100,0.2275,0.7733,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,125,0.2686,0.2800,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,150,0.3078,0.2667,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,175,0.3353,0.1867,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,200,0.3706,0.2400,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,225,0.3882,0.1200,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,250,0.4000,0.0800,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,275,0.4098,0.0667,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,300,0.4196,0.0667,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,325,0.4275,0.0533,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,350,0.4490,0.1467,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,375,0.4549,0.0400,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,400,0.4706,0.1067,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,425,0.4765,0.0400,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,450,0.4804,0.0267,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,475,0.4863,0.0400,1.0000
+Tox21 NR-AR,tox21,weighted,1.00,500,0.4902,0.0267,1.0000
+Tox21 NR-AR,tox21,adaptive,adaptive,50,0.0098,0.0333,0.5000
+Tox21 NR-AR,tox21,adaptive,adaptive,75,0.1137,0.7067,0.8367
+Tox21 NR-AR,tox21,adaptive,adaptive,100,0.2235,0.7467,1.0000
+Tox21 NR-AR,tox21,adaptive,adaptive,125,0.2725,0.3333,0.9633
+Tox21 NR-AR,tox21,adaptive,adaptive,150,0.3078,0.2400,0.8980
+Tox21 NR-AR,tox21,adaptive,adaptive,175,0.3608,0.3600,0.8696
+Tox21 NR-AR,tox21,adaptive,adaptive,200,0.4176,0.3867,0.8877
+Tox21 NR-AR,tox21,adaptive,adaptive,225,0.4294,0.0800,0.7502
+Tox21 NR-AR,tox21,adaptive,adaptive,250,0.4765,0.3200,0.7479
+Tox21 NR-AR,tox21,adaptive,adaptive,275,0.4843,0.0533,0.6126
+Tox21 NR-AR,tox21,adaptive,adaptive,300,0.5216,0.2533,0.5896
+Tox21 NR-AR,tox21,adaptive,adaptive,325,0.5275,0.0400,0.4618
+Tox21 NR-AR,tox21,adaptive,adaptive,350,0.5314,0.0267,0.3372
+Tox21 NR-AR,tox21,adaptive,adaptive,375,0.5392,0.0533,0.2348
+Tox21 NR-AR,tox21,adaptive,adaptive,400,0.5451,0.0400,0.1334
+Tox21 NR-AR,tox21,adaptive,adaptive,425,0.5510,0.0400,0.0837
+Tox21 NR-AR,tox21,adaptive,adaptive,450,0.5529,0.0133,0.0473
+Tox21 NR-AR,tox21,adaptive,adaptive,475,0.5529,0.0000,0.0128
+Tox21 NR-AR,tox21,adaptive,adaptive,500,0.5569,0.0267,0.0000
+BACE,bace,random,NA,50,0.0410,0.4533,0.0000
+BACE,bace,random,NA,75,0.0615,0.4533,0.0000
+BACE,bace,random,NA,100,0.0814,0.4400,0.0000
+BACE,bace,random,NA,125,0.1013,0.4400,0.0000
+BACE,bace,random,NA,150,0.1242,0.5067,0.0000
+BACE,bace,random,NA,175,0.1447,0.4533,0.0000
+BACE,bace,random,NA,200,0.1670,0.4933,0.0000
+BACE,bace,random,NA,225,0.1863,0.4267,0.0000
+BACE,bace,random,NA,250,0.2104,0.5333,0.0000
+BACE,bace,random,NA,275,0.2260,0.3467,0.0000
+BACE,bace,random,NA,300,0.2393,0.2933,0.0000
+BACE,bace,random,NA,325,0.2556,0.3600,0.0000
+BACE,bace,random,NA,350,0.2743,0.4133,0.0000
+BACE,bace,random,NA,375,0.2960,0.4800,0.0000
+BACE,bace,random,NA,400,0.3153,0.4267,0.0000
+BACE,bace,random,NA,425,0.3363,0.4667,0.0000
+BACE,bace,random,NA,450,0.3611,0.5467,0.0000
+BACE,bace,random,NA,475,0.3816,0.4533,0.0000
+BACE,bace,random,NA,500,0.4027,0.4667,0.0000
+BACE,bace,exploitation,0.00,50,0.0410,0.4533,0.0000
+BACE,bace,exploitation,0.00,75,0.0784,0.8267,0.0000
+BACE,bace,exploitation,0.00,100,0.1157,0.8267,0.0000
+BACE,bace,exploitation,0.00,125,0.1543,0.8533,0.0000
+BACE,bace,exploitation,0.00,150,0.1971,0.9467,0.0000
+BACE,bace,exploitation,0.00,175,0.2345,0.8267,0.0000
+BACE,bace,exploitation,0.00,200,0.2688,0.7600,0.0000
+BACE,bace,exploitation,0.00,225,0.3050,0.8000,0.0000
+BACE,bace,exploitation,0.00,250,0.3357,0.6800,0.0000
+BACE,bace,exploitation,0.00,275,0.3671,0.6933,0.0000
+BACE,bace,exploitation,0.00,300,0.3990,0.7067,0.0000
+BACE,bace,exploitation,0.00,325,0.4304,0.6933,0.0000
+BACE,bace,exploitation,0.00,350,0.4623,0.7067,0.0000
+BACE,bace,exploitation,0.00,375,0.4937,0.6933,0.0000
+BACE,bace,exploitation,0.00,400,0.5292,0.7867,0.0000
+BACE,bace,exploitation,0.00,425,0.5588,0.6533,0.0000
+BACE,bace,exploitation,0.00,450,0.5889,0.6667,0.0000
+BACE,bace,exploitation,0.00,475,0.6160,0.6000,0.0000
+BACE,bace,exploitation,0.00,500,0.6492,0.7333,0.0000
+BACE,bace,weighted,0.00,50,0.0410,0.4533,0.0000
+BACE,bace,weighted,0.00,75,0.0784,0.8267,0.0000
+BACE,bace,weighted,0.00,100,0.1157,0.8267,0.0000
+BACE,bace,weighted,0.00,125,0.1543,0.8533,0.0000
+BACE,bace,weighted,0.00,150,0.1971,0.9467,0.0000
+BACE,bace,weighted,0.00,175,0.2345,0.8267,0.0000
+BACE,bace,weighted,0.00,200,0.2688,0.7600,0.0000
+BACE,bace,weighted,0.00,225,0.3050,0.8000,0.0000
+BACE,bace,weighted,0.00,250,0.3357,0.6800,0.0000
+BACE,bace,weighted,0.00,275,0.3671,0.6933,0.0000
+BACE,bace,weighted,0.00,300,0.3990,0.7067,0.0000
+BACE,bace,weighted,0.00,325,0.4304,0.6933,0.0000
+BACE,bace,weighted,0.00,350,0.4623,0.7067,0.0000
+BACE,bace,weighted,0.00,375,0.4937,0.6933,0.0000
+BACE,bace,weighted,0.00,400,0.5292,0.7867,0.0000
+BACE,bace,weighted,0.00,425,0.5588,0.6533,0.0000
+BACE,bace,weighted,0.00,450,0.5889,0.6667,0.0000
+BACE,bace,weighted,0.00,475,0.6160,0.6000,0.0000
+BACE,bace,weighted,0.00,500,0.6492,0.7333,0.0000
+BACE,bace,weighted,0.10,50,0.0410,0.4533,0.1000
+BACE,bace,weighted,0.10,75,0.0784,0.8267,0.1000
+BACE,bace,weighted,0.10,100,0.1157,0.8267,0.1000
+BACE,bace,weighted,0.10,125,0.1543,0.8533,0.1000
+BACE,bace,weighted,0.10,150,0.1971,0.9467,0.1000
+BACE,bace,weighted,0.10,175,0.2345,0.8267,0.1000
+BACE,bace,weighted,0.10,200,0.2688,0.7600,0.1000
+BACE,bace,weighted,0.10,225,0.3050,0.8000,0.1000
+BACE,bace,weighted,0.10,250,0.3357,0.6800,0.1000
+BACE,bace,weighted,0.10,275,0.3671,0.6933,0.1000
+BACE,bace,weighted,0.10,300,0.3990,0.7067,0.1000
+BACE,bace,weighted,0.10,325,0.4304,0.6933,0.1000
+BACE,bace,weighted,0.10,350,0.4623,0.7067,0.1000
+BACE,bace,weighted,0.10,375,0.4937,0.6933,0.1000
+BACE,bace,weighted,0.10,400,0.5292,0.7867,0.1000
+BACE,bace,weighted,0.10,425,0.5588,0.6533,0.1000
+BACE,bace,weighted,0.10,450,0.5889,0.6667,0.1000
+BACE,bace,weighted,0.10,475,0.6160,0.6000,0.1000
+BACE,bace,weighted,0.10,500,0.6492,0.7333,0.1000
+BACE,bace,weighted,0.25,50,0.0410,0.4533,0.2500
+BACE,bace,weighted,0.25,75,0.0790,0.8400,0.2500
+BACE,bace,weighted,0.25,100,0.1145,0.7867,0.2500
+BACE,bace,weighted,0.25,125,0.1513,0.8133,0.2500
+BACE,bace,weighted,0.25,150,0.1929,0.9200,0.2500
+BACE,bace,weighted,0.25,175,0.2327,0.8800,0.2500
+BACE,bace,weighted,0.25,200,0.2706,0.8400,0.2500
+BACE,bace,weighted,0.25,225,0.3026,0.7067,0.2500
+BACE,bace,weighted,0.25,250,0.3363,0.7467,0.2500
+BACE,bace,weighted,0.25,275,0.3671,0.6800,0.2500
+BACE,bace,weighted,0.25,300,0.3972,0.6667,0.2500
+BACE,bace,weighted,0.25,325,0.4322,0.7733,0.2500
+BACE,bace,weighted,0.25,350,0.4671,0.7733,0.2500
+BACE,bace,weighted,0.25,375,0.5021,0.7733,0.2500
+BACE,bace,weighted,0.25,400,0.5371,0.7733,0.2500
+BACE,bace,weighted,0.25,425,0.5636,0.5867,0.2500
+BACE,bace,weighted,0.25,450,0.5889,0.5600,0.2500
+BACE,bace,weighted,0.25,475,0.6172,0.6267,0.2500
+BACE,bace,weighted,0.25,500,0.6510,0.7467,0.2500
+BACE,bace,weighted,0.50,50,0.0410,0.4533,0.5000
+BACE,bace,weighted,0.50,75,0.0711,0.6667,0.5000
+BACE,bace,weighted,0.50,100,0.1025,0.6933,0.5000
+BACE,bace,weighted,0.50,125,0.1350,0.7200,0.5000
+BACE,bace,weighted,0.50,150,0.1664,0.6933,0.5000
+BACE,bace,weighted,0.50,175,0.2025,0.8000,0.5000
+BACE,bace,weighted,0.50,200,0.2327,0.6667,0.5000
+BACE,bace,weighted,0.50,225,0.2646,0.7067,0.5000
+BACE,bace,weighted,0.50,250,0.3008,0.8000,0.5000
+BACE,bace,weighted,0.50,275,0.3382,0.8267,0.5000
+BACE,bace,weighted,0.50,300,0.3743,0.8000,0.5000
+BACE,bace,weighted,0.50,325,0.4081,0.7467,0.5000
+BACE,bace,weighted,0.50,350,0.4406,0.7200,0.5000
+BACE,bace,weighted,0.50,375,0.4738,0.7333,0.5000
+BACE,bace,weighted,0.50,400,0.5039,0.6667,0.5000
+BACE,bace,weighted,0.50,425,0.5329,0.6400,0.5000
+BACE,bace,weighted,0.50,450,0.5642,0.6933,0.5000
+BACE,bace,weighted,0.50,475,0.6016,0.8267,0.5000
+BACE,bace,weighted,0.50,500,0.6263,0.5467,0.5000
+BACE,bace,weighted,0.75,50,0.0410,0.4533,0.7500
+BACE,bace,weighted,0.75,75,0.0609,0.4400,0.7500
+BACE,bace,weighted,0.75,100,0.0928,0.7067,0.7500
+BACE,bace,weighted,0.75,125,0.1254,0.7200,0.7500
+BACE,bace,weighted,0.75,150,0.1501,0.5467,0.7500
+BACE,bace,weighted,0.75,175,0.1742,0.5333,0.7500
+BACE,bace,weighted,0.75,200,0.2061,0.7067,0.7500
+BACE,bace,weighted,0.75,225,0.2339,0.6133,0.7500
+BACE,bace,weighted,0.75,250,0.2586,0.5467,0.7500
+BACE,bace,weighted,0.75,275,0.2851,0.5867,0.7500
+BACE,bace,weighted,0.75,300,0.3165,0.6933,0.7500
+BACE,bace,weighted,0.75,325,0.3478,0.6933,0.7500
+BACE,bace,weighted,0.75,350,0.3773,0.6533,0.7500
+BACE,bace,weighted,0.75,375,0.4069,0.6533,0.7500
+BACE,bace,weighted,0.75,400,0.4376,0.6800,0.7500
+BACE,bace,weighted,0.75,425,0.4641,0.5867,0.7500
+BACE,bace,weighted,0.75,450,0.4828,0.4133,0.7500
+BACE,bace,weighted,0.75,475,0.5087,0.5733,0.7500
+BACE,bace,weighted,0.75,500,0.5359,0.6000,0.7500
+BACE,bace,weighted,1.00,50,0.0410,0.4533,1.0000
+BACE,bace,weighted,1.00,75,0.0627,0.4800,1.0000
+BACE,bace,weighted,1.00,100,0.0802,0.3867,1.0000
+BACE,bace,weighted,1.00,125,0.1013,0.4667,1.0000
+BACE,bace,weighted,1.00,150,0.1248,0.5200,1.0000
+BACE,bace,weighted,1.00,175,0.1525,0.6133,1.0000
+BACE,bace,weighted,1.00,200,0.1784,0.5733,1.0000
+BACE,bace,weighted,1.00,225,0.2122,0.7467,1.0000
+BACE,bace,weighted,1.00,250,0.2327,0.4533,1.0000
+BACE,bace,weighted,1.00,275,0.2592,0.5867,1.0000
+BACE,bace,weighted,1.00,300,0.2833,0.5333,1.0000
+BACE,bace,weighted,1.00,325,0.3050,0.4800,1.0000
+BACE,bace,weighted,1.00,350,0.3357,0.6800,1.0000
+BACE,bace,weighted,1.00,375,0.3580,0.4933,1.0000
+BACE,bace,weighted,1.00,400,0.3846,0.5867,1.0000
+BACE,bace,weighted,1.00,425,0.4099,0.5600,1.0000
+BACE,bace,weighted,1.00,450,0.4352,0.5600,1.0000
+BACE,bace,weighted,1.00,475,0.4575,0.4933,1.0000
+BACE,bace,weighted,1.00,500,0.4762,0.4133,1.0000
+BACE,bace,adaptive,adaptive,50,0.0410,0.4533,0.5000
+BACE,bace,adaptive,adaptive,75,0.0711,0.6667,0.6067
+BACE,bace,adaptive,adaptive,100,0.0970,0.5733,0.6311
+BACE,bace,adaptive,adaptive,125,0.1278,0.6800,0.7028
+BACE,bace,adaptive,adaptive,150,0.1567,0.6400,0.7401
+BACE,bace,adaptive,adaptive,175,0.1844,0.6133,0.7579
+BACE,bace,adaptive,adaptive,200,0.2122,0.6133,0.7731
+BACE,bace,adaptive,adaptive,225,0.2387,0.5867,0.7731
+BACE,bace,adaptive,adaptive,250,0.2664,0.6133,0.7865
+BACE,bace,adaptive,adaptive,275,0.2936,0.6000,0.7918
+BACE,bace,adaptive,adaptive,300,0.3273,0.7467,0.8700
+BACE,bace,adaptive,adaptive,325,0.3544,0.6000,0.8557
+BACE,bace,adaptive,adaptive,350,0.3810,0.5867,0.8475
+BACE,bace,adaptive,adaptive,375,0.4020,0.4667,0.7798
+BACE,bace,adaptive,adaptive,400,0.4304,0.6267,0.7967
+BACE,bace,adaptive,adaptive,425,0.4563,0.5733,0.7859
+BACE,bace,adaptive,adaptive,450,0.4870,0.6800,0.8290
+BACE,bace,adaptive,adaptive,475,0.5093,0.4933,0.7764
+BACE,bace,adaptive,adaptive,500,0.5353,0.5733,0.7666
+BBBP,bbbp,random,NA,50,0.0335,0.8400,0.0000
+BBBP,bbbp,random,NA,75,0.0489,0.7733,0.0000
+BBBP,bbbp,random,NA,100,0.0654,0.8267,0.0000
+BBBP,bbbp,random,NA,125,0.0813,0.8000,0.0000
+BBBP,bbbp,random,NA,150,0.0976,0.8133,0.0000
+BBBP,bbbp,random,NA,175,0.1119,0.7200,0.0000
+BBBP,bbbp,random,NA,200,0.1263,0.7200,0.0000
+BBBP,bbbp,random,NA,225,0.1411,0.7467,0.0000
+BBBP,bbbp,random,NA,250,0.1558,0.7333,0.0000
+BBBP,bbbp,random,NA,275,0.1709,0.7600,0.0000
+BBBP,bbbp,random,NA,300,0.1869,0.8000,0.0000
+BBBP,bbbp,random,NA,325,0.2018,0.7467,0.0000
+BBBP,bbbp,random,NA,350,0.2174,0.7867,0.0000
+BBBP,bbbp,random,NA,375,0.2331,0.7867,0.0000
+BBBP,bbbp,random,NA,400,0.2491,0.8000,0.0000
+BBBP,bbbp,random,NA,425,0.2640,0.7467,0.0000
+BBBP,bbbp,random,NA,450,0.2807,0.8400,0.0000
+BBBP,bbbp,random,NA,475,0.2969,0.8133,0.0000
+BBBP,bbbp,random,NA,500,0.3118,0.7467,0.0000
+BBBP,bbbp,exploitation,0.00,50,0.0335,0.8400,0.0000
+BBBP,bbbp,exploitation,0.00,75,0.0532,0.9867,0.0000
+BBBP,bbbp,exploitation,0.00,100,0.0731,1.0000,0.0000
+BBBP,bbbp,exploitation,0.00,125,0.0930,1.0000,0.0000
+BBBP,bbbp,exploitation,0.00,150,0.1122,0.9600,0.0000
+BBBP,bbbp,exploitation,0.00,175,0.1318,0.9867,0.0000
+BBBP,bbbp,exploitation,0.00,200,0.1507,0.9467,0.0000
+BBBP,bbbp,exploitation,0.00,225,0.1696,0.9467,0.0000
+BBBP,bbbp,exploitation,0.00,250,0.1890,0.9733,0.0000
+BBBP,bbbp,exploitation,0.00,275,0.2087,0.9867,0.0000
+BBBP,bbbp,exploitation,0.00,300,0.2283,0.9867,0.0000
+BBBP,bbbp,exploitation,0.00,325,0.2477,0.9733,0.0000
+BBBP,bbbp,exploitation,0.00,350,0.2658,0.9067,0.0000
+BBBP,bbbp,exploitation,0.00,375,0.2855,0.9867,0.0000
+BBBP,bbbp,exploitation,0.00,400,0.3038,0.9200,0.0000
+BBBP,bbbp,exploitation,0.00,425,0.3227,0.9467,0.0000
+BBBP,bbbp,exploitation,0.00,450,0.3397,0.8533,0.0000
+BBBP,bbbp,exploitation,0.00,475,0.3594,0.9867,0.0000
+BBBP,bbbp,exploitation,0.00,500,0.3785,0.9600,0.0000
+BBBP,bbbp,weighted,0.00,50,0.0335,0.8400,0.0000
+BBBP,bbbp,weighted,0.00,75,0.0532,0.9867,0.0000
+BBBP,bbbp,weighted,0.00,100,0.0731,1.0000,0.0000
+BBBP,bbbp,weighted,0.00,125,0.0930,1.0000,0.0000
+BBBP,bbbp,weighted,0.00,150,0.1122,0.9600,0.0000
+BBBP,bbbp,weighted,0.00,175,0.1318,0.9867,0.0000
+BBBP,bbbp,weighted,0.00,200,0.1507,0.9467,0.0000
+BBBP,bbbp,weighted,0.00,225,0.1696,0.9467,0.0000
+BBBP,bbbp,weighted,0.00,250,0.1890,0.9733,0.0000
+BBBP,bbbp,weighted,0.00,275,0.2087,0.9867,0.0000
+BBBP,bbbp,weighted,0.00,300,0.2283,0.9867,0.0000
+BBBP,bbbp,weighted,0.00,325,0.2477,0.9733,0.0000
+BBBP,bbbp,weighted,0.00,350,0.2658,0.9067,0.0000
+BBBP,bbbp,weighted,0.00,375,0.2855,0.9867,0.0000
+BBBP,bbbp,weighted,0.00,400,0.3038,0.9200,0.0000
+BBBP,bbbp,weighted,0.00,425,0.3227,0.9467,0.0000
+BBBP,bbbp,weighted,0.00,450,0.3397,0.8533,0.0000
+BBBP,bbbp,weighted,0.00,475,0.3594,0.9867,0.0000
+BBBP,bbbp,weighted,0.00,500,0.3785,0.9600,0.0000
+BBBP,bbbp,weighted,0.10,50,0.0335,0.8400,0.1000
+BBBP,bbbp,weighted,0.10,75,0.0532,0.9867,0.1000
+BBBP,bbbp,weighted,0.10,100,0.0731,1.0000,0.1000
+BBBP,bbbp,weighted,0.10,125,0.0930,1.0000,0.1000
+BBBP,bbbp,weighted,0.10,150,0.1122,0.9600,0.1000
+BBBP,bbbp,weighted,0.10,175,0.1318,0.9867,0.1000
+BBBP,bbbp,weighted,0.10,200,0.1507,0.9467,0.1000
+BBBP,bbbp,weighted,0.10,225,0.1696,0.9467,0.1000
+BBBP,bbbp,weighted,0.10,250,0.1890,0.9733,0.1000
+BBBP,bbbp,weighted,0.10,275,0.2087,0.9867,0.1000
+BBBP,bbbp,weighted,0.10,300,0.2283,0.9867,0.1000
+BBBP,bbbp,weighted,0.10,325,0.2477,0.9733,0.1000
+BBBP,bbbp,weighted,0.10,350,0.2658,0.9067,0.1000
+BBBP,bbbp,weighted,0.10,375,0.2855,0.9867,0.1000
+BBBP,bbbp,weighted,0.10,400,0.3038,0.9200,0.1000
+BBBP,bbbp,weighted,0.10,425,0.3227,0.9467,0.1000
+BBBP,bbbp,weighted,0.10,450,0.3397,0.8533,0.1000
+BBBP,bbbp,weighted,0.10,475,0.3594,0.9867,0.1000
+BBBP,bbbp,weighted,0.10,500,0.3785,0.9600,0.1000
+BBBP,bbbp,weighted,0.25,50,0.0335,0.8400,0.2500
+BBBP,bbbp,weighted,0.25,75,0.0532,0.9867,0.2500
+BBBP,bbbp,weighted,0.25,100,0.0728,0.9867,0.2500
+BBBP,bbbp,weighted,0.25,125,0.0920,0.9600,0.2500
+BBBP,bbbp,weighted,0.25,150,0.1114,0.9733,0.2500
+BBBP,bbbp,weighted,0.25,175,0.1297,0.9200,0.2500
+BBBP,bbbp,weighted,0.25,200,0.1491,0.9733,0.2500
+BBBP,bbbp,weighted,0.25,225,0.1683,0.9600,0.2500
+BBBP,bbbp,weighted,0.25,250,0.1879,0.9867,0.2500
+BBBP,bbbp,weighted,0.25,275,0.2068,0.9467,0.2500
+BBBP,bbbp,weighted,0.25,300,0.2267,1.0000,0.2500
+BBBP,bbbp,weighted,0.25,325,0.2456,0.9467,0.2500
+BBBP,bbbp,weighted,0.25,350,0.2648,0.9600,0.2500
+BBBP,bbbp,weighted,0.25,375,0.2834,0.9333,0.2500
+BBBP,bbbp,weighted,0.25,400,0.3014,0.9067,0.2500
+BBBP,bbbp,weighted,0.25,425,0.3208,0.9733,0.2500
+BBBP,bbbp,weighted,0.25,450,0.3402,0.9733,0.2500
+BBBP,bbbp,weighted,0.25,475,0.3589,0.9333,0.2500
+BBBP,bbbp,weighted,0.25,500,0.3780,0.9600,0.2500
+BBBP,bbbp,weighted,0.50,50,0.0335,0.8400,0.5000
+BBBP,bbbp,weighted,0.50,75,0.0470,0.6800,0.5000
+BBBP,bbbp,weighted,0.50,100,0.0611,0.7067,0.5000
+BBBP,bbbp,weighted,0.50,125,0.0758,0.7333,0.5000
+BBBP,bbbp,weighted,0.50,150,0.0909,0.7600,0.5000
+BBBP,bbbp,weighted,0.50,175,0.1069,0.8000,0.5000
+BBBP,bbbp,weighted,0.50,200,0.1231,0.8133,0.5000
+BBBP,bbbp,weighted,0.50,225,0.1390,0.8000,0.5000
+BBBP,bbbp,weighted,0.50,250,0.1528,0.6933,0.5000
+BBBP,bbbp,weighted,0.50,275,0.1667,0.6933,0.5000
+BBBP,bbbp,weighted,0.50,300,0.1813,0.7333,0.5000
+BBBP,bbbp,weighted,0.50,325,0.1994,0.9067,0.5000
+BBBP,bbbp,weighted,0.50,350,0.2156,0.8133,0.5000
+BBBP,bbbp,weighted,0.50,375,0.2299,0.7200,0.5000
+BBBP,bbbp,weighted,0.50,400,0.2456,0.7867,0.5000
+BBBP,bbbp,weighted,0.50,425,0.2613,0.7867,0.5000
+BBBP,bbbp,weighted,0.50,450,0.2762,0.7467,0.5000
+BBBP,bbbp,weighted,0.50,475,0.2921,0.8000,0.5000
+BBBP,bbbp,weighted,0.50,500,0.3081,0.8000,0.5000
+BBBP,bbbp,weighted,0.75,50,0.0335,0.8400,0.7500
+BBBP,bbbp,weighted,0.75,75,0.0417,0.4133,0.7500
+BBBP,bbbp,weighted,0.75,100,0.0500,0.4133,0.7500
+BBBP,bbbp,weighted,0.75,125,0.0587,0.4400,0.7500
+BBBP,bbbp,weighted,0.75,150,0.0702,0.5733,0.7500
+BBBP,bbbp,weighted,0.75,175,0.0813,0.5600,0.7500
+BBBP,bbbp,weighted,0.75,200,0.0933,0.6000,0.7500
+BBBP,bbbp,weighted,0.75,225,0.1042,0.5467,0.7500
+BBBP,bbbp,weighted,0.75,250,0.1170,0.6400,0.7500
+BBBP,bbbp,weighted,0.75,275,0.1289,0.6000,0.7500
+BBBP,bbbp,weighted,0.75,300,0.1441,0.7600,0.7500
+BBBP,bbbp,weighted,0.75,325,0.1582,0.7067,0.7500
+BBBP,bbbp,weighted,0.75,350,0.1701,0.6000,0.7500
+BBBP,bbbp,weighted,0.75,375,0.1834,0.6667,0.7500
+BBBP,bbbp,weighted,0.75,400,0.1975,0.7067,0.7500
+BBBP,bbbp,weighted,0.75,425,0.2127,0.7600,0.7500
+BBBP,bbbp,weighted,0.75,450,0.2273,0.7333,0.7500
+BBBP,bbbp,weighted,0.75,475,0.2430,0.7867,0.7500
+BBBP,bbbp,weighted,0.75,500,0.2552,0.6133,0.7500
+BBBP,bbbp,weighted,1.00,50,0.0335,0.8400,1.0000
+BBBP,bbbp,weighted,1.00,75,0.0412,0.3867,1.0000
+BBBP,bbbp,weighted,1.00,100,0.0460,0.2400,1.0000
+BBBP,bbbp,weighted,1.00,125,0.0513,0.2667,1.0000
+BBBP,bbbp,weighted,1.00,150,0.0609,0.4800,1.0000
+BBBP,bbbp,weighted,1.00,175,0.0707,0.4933,1.0000
+BBBP,bbbp,weighted,1.00,200,0.0832,0.6267,1.0000
+BBBP,bbbp,weighted,1.00,225,0.0930,0.4933,1.0000
+BBBP,bbbp,weighted,1.00,250,0.1047,0.5867,1.0000
+BBBP,bbbp,weighted,1.00,275,0.1180,0.6667,1.0000
+BBBP,bbbp,weighted,1.00,300,0.1305,0.6267,1.0000
+BBBP,bbbp,weighted,1.00,325,0.1425,0.6000,1.0000
+BBBP,bbbp,weighted,1.00,350,0.1534,0.5467,1.0000
+BBBP,bbbp,weighted,1.00,375,0.1661,0.6400,1.0000
+BBBP,bbbp,weighted,1.00,400,0.1778,0.5867,1.0000
+BBBP,bbbp,weighted,1.00,425,0.1914,0.6800,1.0000
+BBBP,bbbp,weighted,1.00,450,0.2068,0.7733,1.0000
+BBBP,bbbp,weighted,1.00,475,0.2220,0.7600,1.0000
+BBBP,bbbp,weighted,1.00,500,0.2371,0.7600,1.0000
+BBBP,bbbp,adaptive,adaptive,50,0.0335,0.8400,0.5000
+BBBP,bbbp,adaptive,adaptive,75,0.0470,0.6800,0.4200
+BBBP,bbbp,adaptive,adaptive,100,0.0651,0.9067,0.4800
+BBBP,bbbp,adaptive,adaptive,125,0.0813,0.8133,0.4783
+BBBP,bbbp,adaptive,adaptive,150,0.0962,0.7467,0.4437
+BBBP,bbbp,adaptive,adaptive,175,0.1114,0.7600,0.4214
+BBBP,bbbp,adaptive,adaptive,200,0.1271,0.7867,0.4157
+BBBP,bbbp,adaptive,adaptive,225,0.1435,0.8267,0.4307
+BBBP,bbbp,adaptive,adaptive,250,0.1595,0.8000,0.4307
+BBBP,bbbp,adaptive,adaptive,275,0.1773,0.8933,0.4774
+BBBP,bbbp,adaptive,adaptive,300,0.1927,0.7733,0.4598
+BBBP,bbbp,adaptive,adaptive,325,0.2092,0.8267,0.4704
+BBBP,bbbp,adaptive,adaptive,350,0.2243,0.7600,0.4468
+BBBP,bbbp,adaptive,adaptive,375,0.2416,0.8667,0.4782
+BBBP,bbbp,adaptive,adaptive,400,0.2568,0.7600,0.4542
+BBBP,bbbp,adaptive,adaptive,425,0.2743,0.8800,0.4917
+BBBP,bbbp,adaptive,adaptive,450,0.2895,0.7600,0.4670
+BBBP,bbbp,adaptive,adaptive,475,0.3049,0.7733,0.4503
+BBBP,bbbp,adaptive,adaptive,500,0.3224,0.8800,0.4879

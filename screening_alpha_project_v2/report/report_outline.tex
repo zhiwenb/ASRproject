@@ -1,0 +1,32 @@
+\section{Reframed Objective}
+The goal of this project is ligand-based virtual screening under a fixed evaluation budget. The objective is not to train the most accurate classifier for its own sake, but to recover active molecules as efficiently as possible. We therefore treat the predictive model as a surrogate used to rank candidate molecules for evaluation.
+
+\section{Acquisition Strategies}
+We study the exploration--exploitation tradeoff in molecular screening. The pure exploitation baseline selects molecules with the highest predicted probability of being active:
+\[
+a(x)=P(y=1 \mid x).
+\]
+This is the most direct virtual-screening baseline because it spends the budget on molecules that the surrogate believes are likely hits.
+
+We then use a weighted acquisition strategy:
+\[
+a_{\alpha}(x)=(1-\alpha)\widetilde{P}(y=1 \mid x)+\alpha \widetilde{U}(x),
+\]
+where $\widetilde{P}(y=1 \mid x)$ is the normalized predicted activity probability and $\widetilde{U}(x)$ is normalized predictive entropy. Here $\alpha=0$ corresponds to pure exploitation and $\alpha=1$ corresponds to pure uncertainty sampling.
+
+\section{Dataset-Dependent Alpha Sweep}
+We evaluate the fixed-alpha strategy on five datasets with different observed hit rates: HIV, ClinTox, Tox21, BACE, and BBBP. For each dataset, we test
+\[
+\alpha \in \{0, 0.1, 0.25, 0.5, 0.75, 1.0\}.
+\]
+This experiment asks whether different molecular screening tasks prefer different exploration weights.
+
+\section{Adaptive Alpha Strategy}
+Finally, we propose an adaptive acquisition strategy that updates $\alpha$ online:
+\[
+\alpha_{t+1}=\mathrm{clip}\left(\alpha_t+\eta(h_t-\hat{p}_t),\alpha_{\min},\alpha_{\max}\right),
+\]
+where $h_t$ is the recent batch hit rate and $\hat{p}_t$ is the current evaluated-set hit rate. If the most recent batch underperforms the current hit-rate baseline, the method decreases $\alpha$ and becomes more exploitative. If the batch performs well, the method increases $\alpha$ and allows more exploration.
+
+\section{Expected Analysis}
+The main analysis compares the best fixed $\alpha$ across datasets and relates it to observed hit rate, uncertainty quality, and screening performance. The expected conclusion is that low-hit-rate datasets should usually prefer smaller $\alpha$, balanced datasets may benefit from moderate exploration, and datasets where uncertainty selects low-yield ambiguous molecules should avoid pure uncertainty sampling. The adaptive method is designed to reduce the need for manually selecting a dataset-specific $\alpha$.
