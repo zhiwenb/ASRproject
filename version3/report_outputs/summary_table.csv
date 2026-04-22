@@ -1,0 +1,6 @@
+dataset,label_col,pool_prevalence,alpha0_normausc,alpha0_ef,alpha0_hits,best_fixed_alpha,best_fixed_normausc,best_fixed_ef,best_fixed_hits,best_fixed_method,bandit_normausc,bandit_ef,bandit_hits,bandit_final_alpha
+hiv,HIV_active,0.035019,11.7203,10.1087,177.0,0,11.7203,10.1087,177.0,exploitation,11.1569,9.8421,172.33,0.3667
+tox21,NR-AR,0.045987,9.1784,6.4076,147.33,0.00,9.1784,6.4076,147.33,exploitation,8.0904,6.3496,146.0,0.5
+clintox,CT_TOX,0.07348,2.0822,1.8418,67.67,0.10,2.0922,1.8236,67.0,fixed_alpha,2.0936,1.8327,67.33,0.8333
+bace,Class,0.521488,1.4736,1.4957,390.0,0.00,1.4736,1.4957,390.0,exploitation,1.4213,1.4727,384.0,0.4167
+bbbp,p_np,0.706315,1.2854,1.2893,455.33,0.00,1.2854,1.2893,455.33,exploitation,1.2096,1.2478,440.67,0.3333

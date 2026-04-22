@@ -1,0 +1,4 @@
+dataset,label_col,split_type,method,alpha,n_pool,pool_actives,pool_prevalence,n_test,test_actives,test_prevalence,mean_norm_ausc,std_norm_ausc,mean_ef,std_ef,mean_final_hits,std_final_hits,mean_final_recall,std_final_recall,mean_final_roc_auc,mean_final_pr_auc,mean_final_alpha,std_final_alpha
+bbbp,p_np,scaffold,exploitation,0.00,1631,1152,0.706315,408,408,1.000000,1.2854,0.0032,1.2893,0.0053,455.33,1.89,0.3953,0.0016,nan,nan,0.0000,0.0000
+bbbp,p_np,scaffold,exploitation,0.00,1631,1152,0.706315,408,408,1.000000,1.2854,0.0032,1.2893,0.0053,455.33,1.89,0.3953,0.0016,nan,nan,0.0000,0.0000
+bbbp,p_np,scaffold,bandit,bandit,1631,1152,0.706315,408,408,1.000000,1.2096,0.0043,1.2478,0.0081,440.67,2.87,0.3825,0.0025,nan,nan,0.3333,0.1179

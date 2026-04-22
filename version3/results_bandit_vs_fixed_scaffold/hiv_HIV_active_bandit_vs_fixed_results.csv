@@ -1,0 +1,8 @@
+dataset,label_col,split_type,method,alpha,n_pool,pool_actives,pool_prevalence,n_test,test_actives,test_prevalence,mean_norm_ausc,std_norm_ausc,mean_ef,std_ef,mean_final_hits,std_final_hits,mean_final_recall,std_final_recall,mean_final_roc_auc,mean_final_pr_auc,mean_final_alpha,std_final_alpha
+hiv,HIV_active,scaffold,exploitation,0,32896,1152,0.035019,8224,291,0.035384,11.7203,0.898,10.1087,1.7063,177,29.88,0.1536,0.0259,0.6111,0.1538,0,0
+hiv,HIV_active,scaffold,fixed_alpha,0.1,32896,1152,0.035019,8224,291,0.035384,10.1069,0.6889,9.1949,1.4958,161,26.19,0.1398,0.0227,0.6068,0.1544,0.1,0
+hiv,HIV_active,scaffold,fixed_alpha,0.25,32896,1152,0.035019,8224,291,0.035384,9.2426,0.2823,8.9855,1.5864,157.33,27.78,0.1366,0.0241,0.6261,0.1635,0.25,0
+hiv,HIV_active,scaffold,fixed_alpha,0.5,32896,1152,0.035019,8224,291,0.035384,9.206,0.4123,8.8713,1.4637,155.33,25.63,0.1348,0.0222,0.6241,0.1711,0.5,0
+hiv,HIV_active,scaffold,fixed_alpha,0.75,32896,1152,0.035019,8224,291,0.035384,8.8205,0.3948,8.6238,1.5751,151,27.58,0.1311,0.0239,0.6406,0.1744,0.75,0
+hiv,HIV_active,scaffold,fixed_alpha,1,32896,1152,0.035019,8224,291,0.035384,9.3426,0.7166,9.4424,1.9917,165.33,34.87,0.1435,0.0303,0.6301,0.1867,1,0
+hiv,HIV_active,scaffold,bandit,bandit,32896,1152,0.035019,8224,291,0.035384,11.1569,0.7813,9.8421,1.6102,172.33,28.19,0.1496,0.0245,0.6227,0.1532,0.3667,0.4497

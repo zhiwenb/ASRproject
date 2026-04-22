@@ -1,0 +1,4 @@
+dataset,label_col,split_type,method,alpha,n_pool,pool_actives,pool_prevalence,n_test,test_actives,test_prevalence,mean_norm_ausc,std_norm_ausc,mean_ef,std_ef,mean_final_hits,std_final_hits,mean_final_recall,std_final_recall,mean_final_roc_auc,mean_final_pr_auc,mean_final_alpha,std_final_alpha
+clintox,CT_TOX,scaffold,exploitation,0.00,1184,87,0.073480,296,25,0.084459,2.0822,0.1895,1.8418,0.0339,67.67,1.25,0.7778,0.0143,0.8215,0.3024,0.0000,0.0000
+clintox,CT_TOX,scaffold,fixed_alpha,0.10,1184,87,0.073480,296,25,0.084459,2.0922,0.1914,1.8236,0.0222,67.00,0.82,0.7701,0.0094,0.8091,0.2931,0.1000,0.0000
+clintox,CT_TOX,scaffold,bandit,bandit,1184,87,0.073480,296,25,0.084459,2.0936,0.2061,1.8327,0.0559,67.33,2.05,0.7739,0.0236,0.8181,0.3456,0.8333,0.2357
